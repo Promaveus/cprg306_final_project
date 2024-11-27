@@ -1,5 +1,7 @@
 import localFont from "next/font/local";
 import "./globals.css";
+import '@fontsource/cinzel'; // Defaults to weight 400
+
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
